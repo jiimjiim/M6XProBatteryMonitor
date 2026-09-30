@@ -1,0 +1,6 @@
+build/
+dist/
+__pycache__/
+*.spec
+icon_preview.png
+_probe_test.py
